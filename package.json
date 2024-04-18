@@ -27,6 +27,7 @@
     "@types/lodash": "^4.17.0",
     "@types/method-override": "^0.0.35",
     "@types/node": "^20.12.7",
+    "@types/uuid": "^9.0.8",
     "@typescript-eslint/eslint-plugin": "^7.7.0",
     "@typescript-eslint/parser": "^7.7.0",
     "eslint": "^v8.56.0",

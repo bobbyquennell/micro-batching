@@ -1,6 +1,5 @@
-# Simple Typescript App
+# micro batching
 
-a simple app to kickstart your ts project (backend)
 
 ## Prerequisites
 
@@ -14,7 +13,7 @@ a simple app to kickstart your ts project (backend)
 ---
 
 ```bash
-git clone git@github.com:bobbyquennell/simple-ts-app.git && cd simple-ts-app
+git clone https://github.com/bobbyquennell/micro-batching.git && cd micro-batching
 ```
 
 ### 2. bootstrap the project
@@ -32,14 +31,6 @@ git clone git@github.com:bobbyquennell/simple-ts-app.git && cd simple-ts-app
 ```bash
 npm run start-dev 
 ```
-
-## Run tests
-
----
-
- ```bash
- npm run test
- ```
 
 ## Technologies Included
 
